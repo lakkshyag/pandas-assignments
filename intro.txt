@@ -1,0 +1,1 @@
+this is a repository i've created for pushing my data science and pandas assignments onto, in the hopes of both learning pandas and practicing git+github.
